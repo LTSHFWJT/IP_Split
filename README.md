@@ -30,4 +30,4 @@ IPy库
 
 
 mail_acc  = 123456@chinatelecom.cn
-adil_pass = 123456
+mail_pass = 123456
