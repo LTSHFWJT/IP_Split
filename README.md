@@ -28,6 +28,3 @@ IPy库
 3. 拆分结果将保存在"IP_range_result.txt"中
 4. 错误的IP地址将保存在"IP_range_err.txt"中
 
-
-mail_acc  = 123456@chinatelecom.cn
-mail_pass = 123456
